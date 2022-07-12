@@ -1,1 +1,1 @@
-# https://vlajik3.github.io/slider/
+#  [View work](https://vlajik3.github.io/slider/)
